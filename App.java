@@ -1,5 +1,6 @@
 public class App {
   public static void main (String[] args) {
-    System.out.println("Olá, pessoal");
+    //meu primeiro programa
+    System.out.println("Hello, everyone");
   }  
 }
